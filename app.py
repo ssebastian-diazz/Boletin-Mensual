@@ -21,8 +21,6 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 =======
->>>>>>> 33771e9e5c5aa01ee1cc3e82c7f0c6f64810fbc1
-
 # ==========================================
 # CONFIGURACIÓN INICIAL Y ESTILOS
 # ==========================================
